@@ -1,5 +1,4 @@
 package com.firstclass.hello1;
-
 public class Naslednik {
     public int a=10;
     public int b;
